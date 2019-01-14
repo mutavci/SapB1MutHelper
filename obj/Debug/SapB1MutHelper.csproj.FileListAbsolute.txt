@@ -1,0 +1,10 @@
+C:\Users\murat.avci\Desktop\sap\Eğitim\MusteriZiyaret\SapB1MutHelper\bin\Debug\SapB1MutHelper.dll
+C:\Users\murat.avci\Desktop\sap\Eğitim\MusteriZiyaret\SapB1MutHelper\bin\Debug\SapB1MutHelper.pdb
+C:\Users\murat.avci\Desktop\sap\Eğitim\MusteriZiyaret\SapB1MutHelper\obj\Debug\SapB1MutHelper.dll
+C:\Users\murat.avci\Desktop\sap\Eğitim\MusteriZiyaret\SapB1MutHelper\obj\Debug\SapB1MutHelper.pdb
+C:\Users\murat.avci\Desktop\HAUS\Sap\AddOn\MusteriZiyaret\SapB1MutHelper\bin\Debug\SapB1MutHelper.dll
+C:\Users\murat.avci\Desktop\HAUS\Sap\AddOn\MusteriZiyaret\SapB1MutHelper\bin\Debug\SapB1MutHelper.pdb
+C:\Users\murat.avci\Desktop\HAUS\Sap\AddOn\MusteriZiyaret\SapB1MutHelper\bin\Debug\SAPBusinessOneSDK.dll
+C:\Users\murat.avci\Desktop\HAUS\Sap\AddOn\MusteriZiyaret\SapB1MutHelper\obj\Debug\SapB1MutHelper.csprojResolveAssemblyReference.cache
+C:\Users\murat.avci\Desktop\HAUS\Sap\AddOn\MusteriZiyaret\SapB1MutHelper\obj\Debug\SapB1MutHelper.dll
+C:\Users\murat.avci\Desktop\HAUS\Sap\AddOn\MusteriZiyaret\SapB1MutHelper\obj\Debug\SapB1MutHelper.pdb
