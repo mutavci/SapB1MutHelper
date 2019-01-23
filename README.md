@@ -35,4 +35,25 @@ ve ardından Ana Bir Menü Ekleyelim
                 };
 
                 MainMenuList.Add(MainMenu);
+                MenuCreation.AddMainSubItems("43520", MainMenuList);
+                var ListMenu = new List<SideMenu>();
+                var menu1 = new SideMenu
+                {
+                    UniqueId = "139",
+                    Type = BoMenuType.mt_STRING,
+                    Text = "menu1",
+                    Image = "",
+                    Pozition = ""
+                };
+                var menu2 = new SideMenu
+                {
+                    UniqueId = "140",
+                    Type = BoMenuType.mt_STRING,
+                    Text = "menu12",
+                    Image = "",
+                    Pozition = ""
+                };
+                ListMenu.Add(menu1);
+                ListMenu.Add(menu2);
+                MenuCreation.AddMainSubItems("MAINMENUID", ListMenu);
 ```
