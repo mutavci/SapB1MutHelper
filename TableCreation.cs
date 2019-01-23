@@ -85,10 +85,9 @@ namespace SapB1MutHelper
 
         public static bool TableExists(string tableName)
         {
-            var oTables = (UserTablesMD) Helper.OCompany.GetBusinessObject(BoObjectTypes.oUserTables);
-            var oFlag = oTables.GetByKey(tableName);
-            Marshal.ReleaseComObject(oTables);
-            return oFlag;
+            return ((UserTablesMD)Helper.OCompany.GetBusinessObject(BoObjectTypes.oUserTables)).GetByKey(tableName);
+         /*   Marshal.ReleaseComObject(oTables);*/
+            /*      Marshal.ReleaseComObject(oTables);*/
         }
 
 

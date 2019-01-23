@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>mutavci</authors>
+    <owners>mutavci</owners>
+    <projectUrl>https://github.com/mutavci/SapB1MutHelper</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>SAP B1 Helper</description>
+    <releaseNotes>SAP Library</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>SAP B1 helper</tags>
+  </metadata>
+</package>

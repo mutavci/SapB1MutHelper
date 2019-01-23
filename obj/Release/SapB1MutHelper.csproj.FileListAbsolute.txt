@@ -1,0 +1,5 @@
+C:\Users\murat.avci\Desktop\HAUS\Sap\AddOn\MusteriZiyaret\SapB1MutHelper\bin\Release\SapB1MutHelper.dll
+C:\Users\murat.avci\Desktop\HAUS\Sap\AddOn\MusteriZiyaret\SapB1MutHelper\bin\Release\SapB1MutHelper.pdb
+C:\Users\murat.avci\Desktop\HAUS\Sap\AddOn\MusteriZiyaret\SapB1MutHelper\bin\Release\SAPBusinessOneSDK.dll
+C:\Users\murat.avci\Desktop\HAUS\Sap\AddOn\MusteriZiyaret\SapB1MutHelper\obj\Release\SapB1MutHelper.dll
+C:\Users\murat.avci\Desktop\HAUS\Sap\AddOn\MusteriZiyaret\SapB1MutHelper\obj\Release\SapB1MutHelper.pdb
