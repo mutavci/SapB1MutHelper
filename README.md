@@ -2,7 +2,7 @@
 SAP business one yardımcısı Tablo,Udo,Triger,Menü Oluşturucu
 
 
-## Kullanım için gereklilik
+## Nasıl Kullanılır ?
 Adım :1
 Öncelikli olarak Visual studio üzerinden SAP Add-On Projesi başlatınız
 
