@@ -24,14 +24,15 @@ kodunu ekleyiniz burada Arkada çalışan Sap b1'ın hangi firmada(bildiğimiz d
 ve ardından Ana Bir Menü Ekleyelim
 
 ```
- var MainMenu = new SideMenu
+                var MainMenuList = new List<SideMenu>();
+                var MainMenu = new SideMenu
                 {
                     UniqueId = "MAINMENUID",
                     Type = BoMenuType.mt_POPUP,
                     Text = "Main Menüm",
-                    Image = System.Windows.Forms.Application.StartupPath + @"\pusula.png", 
+                    Image = System.Windows.Forms.Application.StartupPath + @"\pusula.png",
                     Pozition = "-1"
                 };
 
-                MainMenu.Add(MainMenu);
+                MainMenuList.Add(MainMenu);
 ```
