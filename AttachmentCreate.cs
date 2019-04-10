@@ -16,8 +16,6 @@ namespace SapB1MutHelper
         public string FilePath;
         public string PathName;
 
-        public int sss;
-
         public AttachmentCreate()
         {
             _oFileDialog = new OpenFileDialog();
