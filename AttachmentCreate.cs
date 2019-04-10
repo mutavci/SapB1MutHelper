@@ -12,9 +12,11 @@ namespace SapB1MutHelper
 
         public byte[] FileArray;
 
-        //public string FileName;
+        //public string FileName;   
         public string FilePath;
         public string PathName;
+
+        public string aa;
 
         public AttachmentCreate()
         {
